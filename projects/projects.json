@@ -3,6 +3,62 @@
     "name": "Let There Be Sound",
     "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
     "image": "sound",
+    "category": "Python",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  },
+  {
+    "name": "LawLinks: Engineered Legal Intelligence Solutions",
+    "desc": "Empowering legal professionals with cutting-edge language models for seamless document translation, transliteration, and user query handling. Multilingual support and open-source technologies drive efficiency and precision in legal workflows.",
+    "image": "sound",
+    "category": "NLP/LLM",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  },
+  {
+    "name": "Geo-AI",
+    "desc": " Harnessing AI at the forefront of geospatial science, it employs advanced models like ResNet101 with Deeplabv3+ to deliver precise real-time predictions for disaster recovery, environmental monitoring, and diverse geospatial applications.",
+    "image": "sound",
+    "category": "Encoder-Decoder/Transfer Learning",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  },
+  {
+    "name": "Platform 9 3/4",
+    "desc": "Platform 9 3/4, our college team, pioneers an innovative project leveraging AI and ML technologies to optimize crowd management, crime prevention, and work monitoring in Indian Railways, transforming traditional surveillance through advanced CCTV analysis for enhanced efficiency and safety.",
+    "image": "sound",
+    "category": "Open CV",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  },
+  {
+    "name": "Let There Be Sound",
+    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "image": "sound",
+    "category": "ML/AI",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  },
+  {
+    "name": "Let There Be Sound",
+    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "image": "sound",
+    "category": "ML/AI",
+    "links": {
+      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+    }
+  }
+]
+[
+  {
+    "name": "Let There Be Sound",
+    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "image": "sound",
     "category": "ML/AI",
     "links": {
       "code": "https://github.com/vyasylum/Let-There-Be-Sound"
