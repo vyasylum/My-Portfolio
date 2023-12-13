@@ -9,19 +9,19 @@
     }
   },
   {
-    "name": "LawLinks: Engineered Legal Intelligence Solutions",
-    "desc": "Empowering legal professionals with cutting-edge language models for seamless document translation, transliteration, and user query handling. Multilingual support and open-source technologies drive efficiency and precision in legal workflows.",
+    "name": "Drowsiness Detection",
+    "desc": "Drowsiness Detection for Truck Drivers using Transfer Learning (Inception V3) on MRL Eyes dataset. Utilizing Haarcascade files and OpenCV for real-time eye tracking, with an integrated alarm system to alert drivers when eyes are closed.",
     "image": "sound",
-    "category": "NLP/LLM",
+    "category": "Open CV/Transfer Learning",
     "links": {
       "code": "https://github.com/vyasylum/Let-There-Be-Sound"
     }
   },
   {
-    "name": "Geo-AI",
-    "desc": " Harnessing AI at the forefront of geospatial science, it employs advanced models like ResNet101 with Deeplabv3+ to deliver precise real-time predictions for disaster recovery, environmental monitoring, and diverse geospatial applications.",
+    "name": "Pedestrian Detection",
+    "desc": "Pedestrian Detection leveraging YOLOv4 weights and cv2.dnn, enhanced with heat maps and masking techniques for precise analysis. An effective solution for real-time pedestrian detection in various environments.",
     "image": "sound",
-    "category": "Encoder-Decoder/Transfer Learning",
+    "category": "Open CV/YoloV4",
     "links": {
       "code": "https://github.com/vyasylum/Let-There-Be-Sound"
     }
@@ -32,52 +32,43 @@
     "image": "sound",
     "category": "Open CV",
     "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+      "code": "https://github.com/vyasylum/Platform-9-3-4"
     }
   },
   {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "name": "Geo-AI",
+    "desc": " Harnessing AI at the forefront of geospatial science, it employs advanced models like ResNet101 with Deeplabv3+ to deliver precise real-time predictions for disaster recovery, environmental monitoring, and diverse geospatial applications.",
     "image": "sound",
-    "category": "ML/AI",
+    "category": "Encoder-Decoder/Transfer Learning",
     "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
-    }
-  },
-  {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
-    "image": "sound",
-    "category": "ML/AI",
-    "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+      "code": "https://github.com/eKeiran/GeoAI-QuantumCartographers"
     }
   },
 
-
   {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "name": "LawLinks: Engineered Legal Intelligence Solutions",
+    "desc": "Empowering legal professionals with cutting-edge language models for seamless document translation, transliteration, and user query handling. Multilingual support and open-source technologies drive efficiency and precision in legal workflows.",
     "image": "sound",
-    "category": "ML/AI",
+    "category": "NLP/LLM",
+    "links": {
+      "code": "https://github.com/vyasylum/LawLinks"
+    }
+  },
+  
+  {
+    "name": "Predicting Treatment Response (Child Medulloblastoma) from Medical Imaging Data using Deep Learning",
+    "desc": "Leading advanced deep learning techniques for cancer treatment response prediction, utilizing CNNs, RNNs, and 3D LSTMs. Acquired data from the National Cancer Institute, leveraging MONAI and 3D Slicer for efficient processing, the research aims to establish a non-invasive approach to assess treatment efficacy through robust model development and validation.",
+    "image": "sound",
+    "category": "Medical Imaging/Deep Learning",
     "links": {
       "code": "https://github.com/vyasylum/Let-There-Be-Sound"
     }
   },
   {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
+    "name": "Deep Reinforcement Learning for AutonomousSpacecraft Guidance ",
+    "desc": "Currently researching advanced Reinforcement Learning exploration methods, focusing on Model-Based Exploration and Hindsight Experience Replay. Delving into Skill Discovery approaches and authoring a survey paper on the evolving landscape of RL exploration.",
     "image": "sound",
-    "category": "ML/AI",
-    "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
-    }
-  },
-  {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
-    "image": "sound",
-    "category": "ML/AI",
+    "category": "Reinforcement Learning",
     "links": {
       "code": "https://github.com/vyasylum/Let-There-Be-Sound"
     }
