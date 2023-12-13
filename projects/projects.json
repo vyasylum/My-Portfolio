@@ -54,14 +54,14 @@
       "code": "https://github.com/vyasylum/LawLinks"
     }
   },
-  
+
   {
     "name": "Predicting Treatment Response (Child Medulloblastoma) from Medical Imaging Data using Deep Learning",
     "desc": "Leading advanced deep learning techniques for cancer treatment response prediction, utilizing CNNs, RNNs, and 3D LSTMs. Acquired data from the National Cancer Institute, leveraging MONAI and 3D Slicer for efficient processing, the research aims to establish a non-invasive approach to assess treatment efficacy through robust model development and validation.",
     "image": "sound",
     "category": "Medical Imaging/Deep Learning",
     "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+      "code": ""
     }
   },
   {
@@ -70,34 +70,8 @@
     "image": "sound",
     "category": "Reinforcement Learning",
     "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
-    }
-  },
-  {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
-    "image": "sound",
-    "category": "ML/AI",
-    "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
-    }
-  },
-  {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
-    "image": "sound",
-    "category": "ML/AI",
-    "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
-    }
-  },
-  {
-    "name": "Let There Be Sound",
-    "desc": "The project “Let There Be Sound” carries a mission to assist the blind and visually impaired to use the computer with their voice and read documents and handwriting.",
-    "image": "sound",
-    "category": "ML/AI",
-    "links": {
-      "code": "https://github.com/vyasylum/Let-There-Be-Sound"
+      "code": ""
     }
   }
+
 ]
